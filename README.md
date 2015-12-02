@@ -4,6 +4,9 @@ Por motivos pessoais em um projeto, precisei usar bootbox, porém o projeto era 
 
 Para entender como funciona o Bootbox acesse http://bootboxjs.com ou o projeto original do Bootbox http://paynedigital.com/bootbox
 
+## Github Bootbox
+* Bootbox: https://github.com/makeusabrew/bootbox
+
 ## Melhorias
 Agradeço quem quiser ajudar a melhorar o projeto.
 
@@ -11,7 +14,6 @@ Agradeço quem quiser ajudar a melhorar o projeto.
 
 * jQuery: https://jquery.com/
 * Semantic-UI Modals: http://semantic-ui.com/modules/modal.html#/examples
-* Bootbox: https://github.com/makeusabrew/bootbox
 
 ## Contribuir com Bootbox
 
@@ -19,7 +21,7 @@ Please see the [CONTRIBUTING](https://github.com/makeusabrew/bootbox/blob/master
 
 ## License
 
-Copyright (C) 2011-2015
+Copyright (C) 2015
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
