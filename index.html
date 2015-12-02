@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>Bootbox for Semantic-UI</title>
+
+	<link rel="stylesheet" href="bower_components/semantic/dist/semantic.min.css">
+	
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="bower_components/semantic/dist/semantic.min.js"></script>
+	<script src="bootbox-semantic-ui.js"></script>
+	
+</head>
+<body>
+	<div class="ui menu inverted attached blue">
+		<div class="ui container">
+			<a href="index.html" class="item"><i class="icon home"></i> Home</a>
+		</div>
+	</div>
+	<br>
+
+	<div class="ui stackable container grid">
+	  <div class="ui container row stackable doubling">
+	    <div class="ui sixteen wide column">
+	      <h2 class="ui header">
+	        Bootbox para Semantic-UI
+	        <div class="sub header"><small>Para documentação do Bootbox acesse: <a href="http://bootboxjs.com/#usage">http://bootboxjs.com/#usage</a></small></div>
+	      </h2>
+	    </div>
+		</div>
+
+		<div class="ui container row stackable doubling">
+	    <div class="ui sixteen wide column">
+	      <h2 class="ui header">
+	        Exemplo de uso:</h2>
+					
+					<div class="column">
+	        	<h3>Alert Normal</h3>
+		        <code>
+		        	alert("Bootbox SemantUI");
+		        </code>
+	        </div>
+
+	        <h3>Alert Bootbox Semantic-UI</h3>
+	        <code>
+	        	bootbox.alert("Bootbox SemantUI");
+	        	
+	        </code>
+
+	        <h3>Confirm Bootbox Semantic-UI</h3>
+	        <code>
+	        	bootbox.confirm("Are you sure?", function(result) {<br>
+						  this.show("Confirm result: "+result);<br>
+						});<br>
+	        </code>
+	    </div>
+		</div>
+	</div>
+	
+</body>
+</html>

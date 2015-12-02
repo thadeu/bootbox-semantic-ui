@@ -1,0 +1,19 @@
+{
+  "name": "bootbox-semantic-ui",
+  "main": "index.html",
+  "version": "1.0.0",
+  "authors": [
+    "Thadeu Esteves Jr <tadeuu@gmail.com>"
+  ],
+  "description": "Bootbox for styles semantic-ui",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
